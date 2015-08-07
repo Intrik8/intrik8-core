@@ -1,0 +1,19 @@
+{
+  "name": "intrik8-core",
+  "version": "1.0.0",
+  "description": "Core used for Intrik8 Solutions software",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/intrik8/intrik8-core.git"
+  },
+  "author": "Jason Scherer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/intrik8/intrik8-core/issues"
+  },
+  "homepage": "https://github.com/intrik8/intrik8-core#readme"
+}
