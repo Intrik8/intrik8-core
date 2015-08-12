@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Intrik8-core
 ============
   Intrik8 core is the base for the Intrik8 software.  This will provide the basic User login and logout features.  Along with this it will offer the ability to load controllers and routes based on a configured JSON file.  Built as a basic interface to allow a foundation to be built based on features called Slabs (a form of plug-in).  The Slabs offer the ability to enable and disable by downloading, unpacking, and 'installing' into the correct location.  When disabled, the controller will be removed from the system, but will allow for the ability to keep the data that is already in the database.
@@ -20,6 +20,3 @@ Things to do:
 4.
 ------
 Author: Jason Scherer
-=======
-# intrik8-core
->>>>>>> 583c8df8d2fabe0f9e06dcdef9dec3d0c76f15af
