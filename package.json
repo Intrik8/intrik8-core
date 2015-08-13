@@ -1,10 +1,7 @@
 {
   "name": "intrik8-core",
   "version": "1.0.0",
-  "description": "Core for the Intrik8 Software",
-
   "description": "Core used for Intrik8 Solutions software",
-
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,12 +15,12 @@
   "bugs": {
     "url": "https://github.com/intrik8/intrik8-core/issues"
   },
-
   "homepage": "https://github.com/intrik8/intrik8-core#readme",
   "dependencies": {
-    "express": "^4.13.3"
-  },
-
-  "homepage": "https://github.com/intrik8/intrik8-core#readme"
-
+    "body-parser": "^1.13.3",
+    "cookie-parser": "^1.3.5",
+    "express": "^4.13.3",
+    "jade": "^1.11.0",
+    "mongoose": "^4.1.2"
+  }
 }
